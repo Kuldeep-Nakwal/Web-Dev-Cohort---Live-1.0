@@ -9,3 +9,10 @@ function bringBrush(number) {
 
 printChai();
 bringBrush(400);
+
+function addTwoNum(num1,num2){
+    return num1 + num2;
+}
+
+addTwoNum(23,54);
+console.log(addTwoNum(3,6));
